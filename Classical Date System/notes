@@ -1,0 +1,16 @@
+Merupakan Sistem Penanggalan dari beberapa macam Bahasa Pemrograman. Untuk di bagian ini, hanya menggunakan Sistem Penanggalan biasa tanpa memakai Persentase Tahun. 
+
+Contoh Algoritma :
+
+Tahun                   : 2023      
+Bulan                   : 3 (March) 
+Tanggal                 : 17        
+Hari                    : 5 (Friday)
+Hari ke (dalam Setahun) : 76        
+Jam                     : 22        
+Menit                   : 42        
+Detik                   : 52        
+
+Friday, 17 March 2023
+Day-76
+22:42:52
