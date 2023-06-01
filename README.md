@@ -1,4 +1,4 @@
-# Date Time
+# DateTime
 Merupakan kumpulan dari beberapa Bahasa Pemrograman untuk Source Code dari Sistem Penanggalan.
 
 ## Classical Date System
@@ -45,6 +45,3 @@ Day-76 (20.8078%)
 ## HTML CSS JS Multilingual
 
 Untuk bagian ini, merupakan kumpulan dari File-file Penanggalan yang menggunakan beberapa Bahasa Asing dengan menggunakan HTML, CSS, dan JavaScript.
-
-
-# DateTime
