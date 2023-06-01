@@ -6,7 +6,7 @@ Merupakan kumpulan dari beberapa Bahasa Pemrograman untuk Source Code dari Siste
 Untuk di bagian ini, hanya menggunakan Sistem Penanggalan biasa tanpa memakai Persentase Tahun. 
 
 Contoh Algoritma :
-› › › ›
+
 Tahun                   : 2023      
 Bulan                   : 3 (March) 
 Tanggal                 : 17        
@@ -19,14 +19,13 @@ Detik                   : 52
 Friday, 17 March 2023
 Day-76
 22:42:52
-› › › ›
 
 ## Date System with Percentages
 
 Untuk di bagian ini, hanya menggunakan Sistem Penanggalan dengan memakai Persentase Tahun. 
 
 Contoh Algoritma :
-› › › ›
+
 Tahun                    : 2023
 Bulan                    : 3 (March)
 Tanggal                  : 17
@@ -42,7 +41,6 @@ Detik                    : 46
 Friday, 17 March 2023
 Day-76 (20.8078%)
 22:45:46
-› › › ›
 
 ## HTML CSS JS Multilingual
 
