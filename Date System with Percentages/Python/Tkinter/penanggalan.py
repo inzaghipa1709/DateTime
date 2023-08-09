@@ -4,7 +4,7 @@ from datetime import datetime
 class DateInfoApp:
     def __init__(self, root):
         self.root = root
-        self.root.title('Date and Time Information')
+        self.root.title('Penanggalan')
         self.root.geometry('350x280')  # Set window size
         
         self.result_label = tk.Label(root, justify='left')
