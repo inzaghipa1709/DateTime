@@ -9,7 +9,7 @@ class DateInfoApp(QMainWindow):
         self.init_ui()
 
     def init_ui(self):
-        self.setWindowTitle("Date and Time Information")
+        self.setWindowTitle("Penanggalan")
         self.setGeometry(100, 100, 400, 200)
 
         self.result_label = QLabel(self)
