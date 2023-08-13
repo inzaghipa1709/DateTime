@@ -26,20 +26,20 @@ Untuk di bagian ini, hanya menggunakan Sistem Penanggalan dengan memakai Persent
 
 Contoh Algoritma :
 
-Tahun                    : 2023
-Bulan                    : 3 (March)
-Tanggal                  : 17
-Hari                     : 5 (Friday)
-Hari ke (dalam Setahun)  : 76
-Sisa Hari (Tahun depan)  : 290
-Persentase dalam Setahun : 20.807795%
-Persentase Hitung Mundur : 79.192207%
-Jam                      : 22
-Menit                    : 45
+Tahun                    : 2023/
+Bulan                    : 3 (March)/
+Tanggal                  : 17/
+Hari                     : 5 (Friday)/
+Hari ke (dalam Setahun)  : 76/
+Sisa Hari (Tahun depan)  : 290/
+Persentase dalam Setahun : 20.807795%/
+Persentase Hitung Mundur : 79.192207%/
+Jam                      : 22/
+Menit                    : 45/
 Detik                    : 46
 
-Friday, 17 March 2023
-Day-76 (20.8078%)
+Friday, 17 March 2023/
+Day-76 (20.8078%)/
 22:45:46
 
 ## HTML CSS JS Multilingual
